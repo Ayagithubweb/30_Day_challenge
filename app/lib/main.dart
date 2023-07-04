@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         body: Center(
             child: Text(
-          "Flutter months Challenge....📆",
+          "July-2023_☀️",
           style: Theme.of(context).textTheme.titleMedium,
         )),
       ),
