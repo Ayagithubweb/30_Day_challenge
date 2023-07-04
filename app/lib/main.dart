@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Flutter months Challenge',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primarySwatch: Colors.blue,
@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         body: Center(
             child: Text(
-          "30 Day Challenge....💪",
+          "Flutter months Challenge....📆",
           style: Theme.of(context).textTheme.titleMedium,
         )),
       ),
