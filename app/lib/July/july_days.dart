@@ -1,4 +1,4 @@
-import 'package:app/July/Day1/day_1.dart';
+import 'package:app/July/Day2/day_2.dart';
 import 'package:flutter/material.dart';
 
 class JulyDays extends StatelessWidget {
@@ -6,6 +6,6 @@ class JulyDays extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Day1();
+    return const Day2();
   }
 }
