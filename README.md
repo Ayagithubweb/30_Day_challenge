@@ -8,3 +8,4 @@
 </div>
 
     * Day.1 -> Online Food Ordering App 🍤
+    * Day.2 -> COVID-19 App 😩
