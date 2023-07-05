@@ -16,7 +16,7 @@ class DiscountCard extends StatelessWidget {
           borderRadius: BorderRadius.circular(16),
           image: const DecorationImage(
             fit: BoxFit.fill,
-            image: AssetImage("assets/images/beyond-meat-mcdonalds.png"),
+            image: AssetImage("assets/day1/images/beyond-meat-mcdonalds.png"),
           )),
       child: Container(
         width: double.infinity,
@@ -32,7 +32,7 @@ class DiscountCard extends StatelessWidget {
           children: [
             Expanded(
               child: SvgPicture.asset(
-                "assets/icons/macdonalds.svg",
+                "assets/day1/icons/macdonalds.svg",
                 // width: 200,
                 // height: 200,
                 // fit: BoxFit.scaleDown,

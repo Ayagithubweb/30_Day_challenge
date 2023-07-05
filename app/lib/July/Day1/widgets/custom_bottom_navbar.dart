@@ -30,19 +30,19 @@ class CustomBottomNavbar extends StatelessWidget {
         children: [
           IconButton(
             onPressed: () {},
-            icon: SvgPicture.asset('assets/icons/home.svg'),
+            icon: SvgPicture.asset('assets/day1/icons/home.svg'),
           ),
           IconButton(
             onPressed: () {},
-            icon: SvgPicture.asset('assets/icons/Following.svg'),
+            icon: SvgPicture.asset('assets/day1/icons/Following.svg'),
           ),
           IconButton(
             onPressed: () {},
-            icon: SvgPicture.asset('assets/icons/Glyph.svg'),
+            icon: SvgPicture.asset('assets/day1/icons/Glyph.svg'),
           ),
           IconButton(
             onPressed: () {},
-            icon: SvgPicture.asset('assets/icons/person.svg'),
+            icon: SvgPicture.asset('assets/day1/icons/person.svg'),
           ),
         ],
       ),

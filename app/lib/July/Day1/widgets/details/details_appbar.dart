@@ -17,9 +17,11 @@ AppBar DetailsAppbar(BuildContext context) {
     ///* Share + more............................
     actions: [
       TextButton(
-          onPressed: () {}, child: SvgPicture.asset('assets/icons/share.svg')),
+          onPressed: () {},
+          child: SvgPicture.asset('assets/day1/icons/share.svg')),
       TextButton(
-          onPressed: () {}, child: SvgPicture.asset('assets/icons/more.svg')),
+          onPressed: () {},
+          child: SvgPicture.asset('assets/day1/icons/more.svg')),
     ],
   );
 }

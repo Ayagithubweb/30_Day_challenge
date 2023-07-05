@@ -20,7 +20,7 @@ class SearchBox extends StatelessWidget {
         cursorColor: kPrimaryColor,
         decoration: InputDecoration(
           border: InputBorder.none,
-          icon: SvgPicture.asset("assets/icons/search.svg"),
+          icon: SvgPicture.asset("assets/day1/icons/search.svg"),
           hintText: "Search here",
           hintStyle: TextStyle(
               color: ksecondaryColor.withOpacity(0.5),

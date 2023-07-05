@@ -16,32 +16,32 @@ class CardList extends StatelessWidget {
           // mainAxisAlignment: MainAxisAlignment.spaceAround,
           children: const [
             CardItem(
-              image: "assets/icons/burger_beer.svg",
+              image: "assets/day1/icons/burger_beer.svg",
               location: "Macdanid's",
               name: "Burger & Beer",
             ),
             CardItem(
-              image: "assets/icons/chinese_noodles.svg",
+              image: "assets/day1/icons/chinese_noodles.svg",
               location: "Widgets",
               name: "Chinese Noodles",
             ),
             CardItem(
-              image: "assets/icons/burger_beer.svg",
+              image: "assets/day1/icons/burger_beer.svg",
               location: "Macdanid's",
               name: "Burger & Beer",
             ),
             CardItem(
-              image: "assets/icons/burger_beer.svg",
+              image: "assets/day1/icons/burger_beer.svg",
               location: "Macdanid's",
               name: "Burger & Beer",
             ),
             CardItem(
-              image: "assets/icons/burger_beer.svg",
+              image: "assets/day1/icons/burger_beer.svg",
               location: "Macdanid's",
               name: "Burger & Beer",
             ),
             CardItem(
-              image: "assets/icons/burger_beer.svg",
+              image: "assets/day1/icons/burger_beer.svg",
               location: "Macdanid's",
               name: "Burger & Beer",
             ),

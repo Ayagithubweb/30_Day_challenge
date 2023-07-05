@@ -11,7 +11,7 @@ class DetailsTopImage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Image.asset(
-      "assets/images/burger.png",
+      "assets/day1/images/burger.png",
       // height: size.height * 0.03,
       width: double.infinity,
       fit: BoxFit.fill,

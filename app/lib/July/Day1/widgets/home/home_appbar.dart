@@ -10,7 +10,7 @@ AppBar homeAppbar() {
 
     /// * Leading(Menu)..............................................
     leading: SvgPicture.asset(
-      'assets/icons/menu.svg',
+      'assets/day1/icons/menu.svg',
       height: 5,
       width: 5,
       fit: BoxFit.scaleDown,
@@ -36,7 +36,7 @@ AppBar homeAppbar() {
     /// * Actions(Notification)..............................................
     actions: [
       SvgPicture.asset(
-        'assets/icons/notification.svg',
+        'assets/day1/icons/notification.svg',
       ),
       const SizedBox(width: 8)
     ],
