@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:app/July/july_days.dart';
 
 void main() {
   runApp(const MyApp());
@@ -6,23 +7,8 @@ void main() {
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
-
-  // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Flutter months Challenge',
-      debugShowCheckedModeBanner: false,
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-      ),
-      home: Scaffold(
-        body: Center(
-            child: Text(
-          "July-2023_☀️",
-          style: Theme.of(context).textTheme.titleMedium,
-        )),
-      ),
-    );
+    return const JulyDays();
   }
 }
