@@ -1,3 +1,4 @@
+import 'package:app/July/Day2/widgets/home/home_body.dart';
 import 'package:app/July/Day2/widgets/custom_appbar.dart';
 import 'package:flutter/material.dart';
 
@@ -8,6 +9,7 @@ class HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: customAppbar(),
+      body: const HomeBody(),
     );
   }
 }
